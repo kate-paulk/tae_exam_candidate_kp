@@ -7,10 +7,12 @@
 1. While the executable in the included zip of the bin directory is theoretically runnable, it has not been tested.
 1. Documentation has not been generated yet. The documentation shell gives an indication of what it can do.
 
-# Notes:
+## Notes:
 1. Selenium is not the best tool for this application.
 1. There are a lot of places where refactoring is needed.
 1. I could spend a lot of time playing with this to get it 100%, but I've already spent far too much time playing around and fighting off the cats (who like to walk on keyboards)
+1. I know the assertions aren't great. They're a starting point. 
+1. There are a number of todos scattered through the code, mostly for repeated code and cleaning up.
 
 
 # SCOIR Technical Interview for Test Automation Engineers
