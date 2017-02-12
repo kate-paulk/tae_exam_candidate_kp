@@ -1,3 +1,18 @@
+# To run:
+1. Use Visual Studio and build. All the relevant dependencies should be present in the .paket and packages directories.
+1. The project uses the Canopy framework https://lefthandedgoat.github.io/canopy/index.html for tests. Canopy is a wrapper over Selenium
+1. The project uses Project Scaffold http://fsprojects.github.io/ProjectScaffold/index.html as the base. Project Scaffold builds in a number of useful tools including documentation
+1. The project also manually installed the gecko driver for Firefox. The driver is included in source.
+1. Run in debug mode. Output is to the console. 
+1. While the executable in the included zip of the bin directory is theoretically runnable, it has not been tested.
+1. Documentation has not been generated yet. The documentation shell gives an indication of what it can do.
+
+# Notes:
+1. Selenium is not the best tool for this application.
+1. There are a lot of places where refactoring is needed.
+1. I could spend a lot of time playing with this to get it 100%, but I've already spent far too much time playing around and fighting off the cats (who like to walk on keyboards)
+
+
 # SCOIR Technical Interview for Test Automation Engineers
 This repo contains an exercise intended for Test Automation Engineers.
 
