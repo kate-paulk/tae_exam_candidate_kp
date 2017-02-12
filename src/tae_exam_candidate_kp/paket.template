@@ -1,0 +1,25 @@
+type project
+title
+    tae_exam_candidate_kp
+owners
+    Kate Paulk
+authors 
+    Kate Paulk
+projectUrl
+    https://github.com/kate-paulk/tae_exam_candidate_kp/kate-paulk/tae_exam_candidate_kp
+iconUrl
+    https://raw.githubusercontent.com/kate-paulk/tae_exam_candidate_kp/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/kate-paulk/tae_exam_candidate_kp/kate-paulk/tae_exam_candidate_kp/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    test-automation sample
+summary
+    Demonstration sample of test automation for Test Automation Engineer position
+description
+    Sample project showing test automation approach. Project is developed as a coding test for Scoir to demonstrate knowledge of automation techniques and code knowledge.
+
+
